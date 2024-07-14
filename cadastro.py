@@ -17,4 +17,4 @@ while True:
         break
     if eventos == 'Entrar':
         if valores ['usuario'] == 'David' and valores['password'] == '123456':
-            print('Bem-vindo a Dev Aprender!')
+            print('Bem-vindo!')
